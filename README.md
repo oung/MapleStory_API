@@ -2,6 +2,6 @@
 
 유튜브: https://youtu.be/BfgSqetkHCc
 
-Zip파일: https://drive.google.com/file/d/1gwbTY0GLChvCxebMJOoj_SCIAcX488e7/view?usp=sharing
+구글 드라이브: https://drive.google.com/drive/folders/1-3J7kzDiOtqw2OtERFJ6uD_Qgpq5oOLF?usp=sharing
 
 Svn: file:///E:/C++_Client/MapleStory/API/trunk
