@@ -23,7 +23,7 @@ bool CUIClear::Init()
 
 	Clear->SetZOrder(1);
 
-	Clear->SetPlayTime(2.5f);
+	Clear->SetPlayTime(1.5f);
 
 	for (int i = 0; i < 12; i++)
 	{
